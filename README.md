@@ -12,6 +12,10 @@ I am a financial data analyst focused on Python, quantitative research, machine 
 
 ## Selected projects
 
+### [NicOption](https://github.com/shna1/NicOption)
+
+A Persian-language options research and position-management platform built independently with Django and PostgreSQL. It includes covered-call analysis, option screening, trade and underlying-inventory management, scenario analysis, performance reporting and automated tests.
+
 ### [Iranian Gold ETF Direction Modeling](https://github.com/shna1/iran-gold-etf-research)
 
 Time-aware machine-learning research on the next-day direction of an Iranian gold ETF, with chronological validation, transaction-cost-aware backtesting and explicit interpretation limits.
@@ -30,7 +34,7 @@ Portfolio analytics and long-only asset allocation across Iranian equities, the 
 
 ## Tools
 
-`Python` · `pandas` · `NumPy` · `scikit-learn` · `SciPy` · `Plotly` · `Dash` · `Jupyter` · `Git`
+`Python` · `Django` · `PostgreSQL` · `pandas` · `NumPy` · `scikit-learn` · `SciPy` · `Plotly` · `Dash` · `Jupyter` · `Git`
 
 ## Contact
 
